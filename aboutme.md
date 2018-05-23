@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Biomedical Engineering, Machine Learning, Signal Processing
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Research
+ 
+My research interests include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- application of machine learning and signal processing techniques
+- statistical models (hidden Markov models)
+- analysis of circadian rhythms
+- monitoring of mental health
+- ECG analysis
+- design and implementation of clinical trials
+- statistical data analysis
 
-What else do you need?
+### Publications
 
-### my history
+You can find an up-to-date list of my publications at [Publications]({{ site.baseurl }}/pubs/).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Awards and Scholarships
+
+- 2014 RCUK Digital Economy Program funding for full DPhil (four years)
+- 2013 College Prize for work in Engineering, St Hilda's College, Oxford
+- 2012 Nuffield Scholarship, St Hilda's College, Oxford (three years)
+
+### Teaching
+
+- 2016 College Lecturer for Engineering Science, Mathematics (P1), St Edmund Hall, University of Oxford (three years)
