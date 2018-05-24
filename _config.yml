@@ -20,9 +20,9 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"  
   Projects:
-    - Circadian Rhythms in Mental Health: "http://deanattali.com/beautiful-jekyll/"
-    - Heart Rate Variability in Mental Health: "https://pages.github.com/"
-    - Arrhythmia Detection: "http://www.markdowntutorial.com/"
+    - Circadian Rhythms in Mental Health: "circadian"
+    - Heart Rate Variability in Mental Health: "hrv"
+    - Arrhythmia Detection: "challenge2017"
   Publications: "pubs"    
   Contact: "contact"
 
