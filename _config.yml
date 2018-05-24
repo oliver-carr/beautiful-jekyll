@@ -59,7 +59,6 @@ footer-link-col: "#404040"
 
 # --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Oliver Carr
@@ -81,7 +80,7 @@ share-links-active:
   facebook: false
   google: false
   linkedin: false
-
+  googlescholar: false
 
 # --- Web Statistics Section --- #
 
@@ -90,22 +89,6 @@ google_analytics: "UA-119745916-1"
 
 # Google Tag Manager ID
 #gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
-
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
