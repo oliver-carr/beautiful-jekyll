@@ -28,4 +28,4 @@ You can find an up-to-date list of my publications at [Publications]({{ site.bas
 
 ### Teaching
 
-- 2016 College Lecturer for Engineering Science, Mathematics (P1), St Edmund Hall, University of Oxford (three years)
+- 2015-18 College Lecturer for Engineering Science, Mathematics (P1), St Edmund Hall, University of Oxford
