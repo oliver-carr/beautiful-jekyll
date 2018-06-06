@@ -15,6 +15,11 @@ Fig. Recordings of acceleration and heart rate signals over four days to illustr
 
 Currently hidden Markov models are being developed to determine the hidden 'inactive' and 'active' states from accelerometry, with circadian covariates to determine average profiles of activity. Longitudinal monitoring of these profiles through accelerometers in mobiles phones may provide information about the changes into depressive states in bipolar disorder.
 
+<p align="center">
+<img class="img-responsive" src="{{ site.baseurl }}/img/HMM Fig.png" alt="Image Not Found" style="width:100%">
+Fig. Example of the probability of hidden state 1 ('inactive' state - blue) and hidden state 2 ('active' state - red) from 48 hours of accelerometer recording.
+</p>
+
 ## Desynchronisation of Rhythms and Links with Mood
 
 Using the Cosinor method of quantifying internal desynchronicity of activity, 'sleep', and heart rate, it was discovered people with borderline personality disorder had the largest shift in phases accross the modalities, suggesting it is a disorder of circadian rhythm. Bipolar disorder participants also had increased internal desynchronicity compared to healthy controls, described [here.](https://www.nature.com/articles/s41398-018-0125-7)
