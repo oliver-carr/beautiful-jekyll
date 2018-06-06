@@ -8,6 +8,11 @@ subtitle:  Mobile Monitoring of Rhythms
 
 My work has focussed on methods of quantifying circadian or diurnal rhythms through activity and heart rate signals in order to track deterioration of mental health. Initial work modified Cosinor analysis of fitting sinusoids to total activity, 'sleep', and heart rate signals to quantify their amplitude, phase and average values.
 
+<p align="center">
+<img class="img-responsive" src="{{ site.baseurl }}/img/OliverImage.png" alt="Image Not Found" style="width:50%">
+Fig. Recordings of acceleration and heart rate signals over four days to illustrate their diurnal rhythms. (a) Total acceleration recording, a measure of activity. (b) Integrated total acceleration to emphasise the diurnal pattern. (c) Vertical acceleration recording, a measure of sleep of lying down. (d) Integrated vertical acceleration. (e) Heart rate recording, with sinusoids fit to the entire signal (black) and to each 24 hour period (red). (f) Comparison of the sinusoids in (e), with diurnal regularity determine through differences in average ①, phase ② and amplitude ③.
+</p>
+
 Currently hidden Markov models are being developed to determine the hidden 'inactive' and 'active' states from accelerometry, with circadian covariates to determine average profiles of activity. Longitudinal monitoring of these profiles through accelerometers in mobiles phones may provide information about the changes into depressive states in bipolar disorder.
 
 ## Desynchronisation of Rhythms and Links with Mood
